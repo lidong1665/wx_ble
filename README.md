@@ -1,7 +1,11 @@
 # wx_ble
 微信小程序 蓝牙实现
 
-
+在前面已经写了两篇关于Android蓝牙和ios 蓝牙开发的文章，今天带来的是微信小程序蓝牙实现。
+ 
+ -[Android蓝牙](https://github.com/lidong1665/Android-ble)
+ -[ios蓝牙（Swift）](https://github.com/lidong1665/Swift-BLE)
+ 
 有一段时间没有。没有写关于小程序的文章了。3月28日，微信的api又一次新的更新。期待已久的蓝牙api更新。就开始撸一番。
 ## 1.简述
 
